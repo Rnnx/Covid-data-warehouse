@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xc6RY94r85g5bupzspa/fwD5foQmNY6meocyiq77xPe2zzQyaz/b9drewKBhn2uDBGOTtLAbrGZVNCR3jsawKQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\CovidDW\\HtmlToCsvHurtownie\\HtmlToCsvHurtownie\\HtmlToCsvHurtownie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
